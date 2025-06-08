@@ -1,9 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://rishavchanda.io)
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Shahriar Jubair</h1>
 <h3 align="center">Computer Science and Engineering student specializing in Java backend development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
