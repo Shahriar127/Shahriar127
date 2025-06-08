@@ -2,10 +2,6 @@
 <h3 align="center">Computer Science and Engineering student specializing in Java backend development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
-- 🔭 I’m currently working on **Core Java**
-
-- 🌱 I’m currently learning **Spring Boot**
-
 - 📫 How to reach me **shahriarjubair27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
