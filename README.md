@@ -28,8 +28,10 @@ I’m passionate about building full-stack web applications, with a strong inter
 - 🛠️ Building backends with **Java & Spring Boot**  
 - 💾 Working with **MySQL**, **MSSQL**, and **PostgreSQL**  
 - 📱 Exploring **Android Development** with **Jetpack Compose**  
-- 🧩 **Spring Journey**: **Maven → JDBC → Spring Core → Java Config → Spring Boot → Web MVC → REST APIs → Data JPA/Rest → <br>  AOP → Security → JWT & OAuth2 → Docker → Cloud → Microservices → Git**  
+- 🧩 **Spring Journey**: **Maven → JDBC → Spring Core → Java Config → Spring Boot → Web MVC → REST APIs → Data JPA/Rest → AOP → Security → JWT & OAuth2 → Git**  
+- 🔜 Planning to learn **Docker → Cloud Deployment → Microservices**  
 - 💬 Open to collaborating on **real-world, meaningful projects**
+
 
 ---
 
