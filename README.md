@@ -10,7 +10,7 @@
 <td>
 
 Hi, I'm **Shahriar Jubair** — a **Computer Science and Engineering** student at **Mawlana Bhashani Science & Technology University**.  
-I’m passionate about building full-stack web and mobile applications, with a strong interest in backend logic and clean UI design.
+I’m passionate about building full-stack web applications, with a strong interest in backend logic and clean UI design.
 
 </td>
 <td>
@@ -22,13 +22,13 @@ I’m passionate about building full-stack web and mobile applications, with a s
 
 ---
 
-### 🎯 Currently
-- 🎓 Studying **B.Sc. in CSE**
-- 🌐 Crafting UIs with **HTML, CSS (Bootstrap & Tailwind), JavaScript, React**
-- 🛠️ Developing backends using **Java & Spring Boot**
-- 💾 Using **MySQL**, **MSSQL**, and **Oracle** for databases
-- 📱 Exploring **Android Development** with **Jetpack Compose**
-- ☁️ Learning about **cloud deployment tools** & **Firebase**
+### 🎯 Currently  
+- 🎓 Studying **B.Sc. in CSE**  
+- 🌐 Crafting UIs with **HTML, CSS (Bootstrap & Tailwind), JavaScript, React**  
+- 🛠️ Building backends with **Java & Spring Boot**  
+- 💾 Working with **MySQL**, **MSSQL**, and **PostgreSQL**  
+- 📱 Exploring **Android Development** with **Jetpack Compose**  
+- 🧩 **Spring Journey**: **Maven → JDBC → Spring Core → Java Config → Spring Boot → Web MVC → REST APIs → Data JPA/Rest → AOP → Security → JWT & OAuth2 → Docker → Cloud → Microservices → Git**  
 - 💬 Open to collaborating on **real-world, meaningful projects**
 
 ---
@@ -78,8 +78,8 @@ I’m passionate about building full-stack web and mobile applications, with a s
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-333?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
-![Oracle](https://img.shields.io/badge/-Oracle-333?style=for-the-badge&logo=oracle&logoColor=F80000)
-![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
 
 ### 🛠️ Concepts & Tools:
 ![OOP](https://img.shields.io/badge/-OOP_Concepts-333?style=for-the-badge&logo=object-ive-c&logoColor=43853D)
@@ -89,12 +89,6 @@ I’m passionate about building full-stack web and mobile applications, with a s
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahriar127&show_icons=true&theme=vue-dark&text_bold=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar127&layout=compact&langs_count=10&theme=vue-dark"/>
-</div>
 
 ### 🤝 Let's Connect!
 
