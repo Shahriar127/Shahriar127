@@ -91,6 +91,13 @@ I’m passionate about building full-stack web applications, with a strong inter
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahriar127&show_icons=true&theme=vue-dark&text_bold=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar127&layout=compact&langs_count=10&theme=vue-dark"/>
+</div>
+
 
 ### 🤝 Let's Connect!
 
