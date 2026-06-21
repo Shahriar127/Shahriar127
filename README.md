@@ -9,8 +9,9 @@
 <tr>
 <td>
 
-Hi, I'm **Shahriar Jubair** — a **Computer Science and Engineering** student at **Mawlana Bhashani Science & Technology University**.  
-I’m passionate about building full-stack web applications, with a strong interest in backend logic and clean UI design.
+I'm **Shahriar Jubair** — a Computer Science and Engineering student at Mawlana Bhashani Science & Technology University.
+I’m passionate about **AI-first engineering** and building full-stack applications using **Java (Spring Boot) and PHP (Laravel)**.
+I also explore Android development with Jetpack Compose and am actively diving into AI, AI agents, and RAG systems, along with modern practices like CI/CD, Docker, and cloud deployment.
 
 </td>
 <td>
@@ -22,16 +23,16 @@ I’m passionate about building full-stack web applications, with a strong inter
 
 ---
 
-### 🎯 Currently  
-- 🎓 Studying **B.Sc. in CSE**  
-- 🌐 Crafting UIs with **HTML, CSS (Bootstrap & Tailwind), JavaScript, React**  
-- 🛠️ Building backends with **Java & Spring Boot**  
-- 💾 Working with **MySQL**, **MSSQL**, and **PostgreSQL**  
-- 📱 Exploring **Android Development** with **Jetpack Compose**  
-- 🧩 **Spring Journey**: **Maven → JDBC → Spring Core → Java Config → Spring Boot → Web MVC → REST APIs → Data JPA/Rest → AOP → Security → JWT & OAuth2 → Git**  
-- 🔜 Planning to learn **Docker → Cloud Deployment → Microservices**  
-- 💬 Open to collaborating on **real-world, meaningful projects**
+### 🎯 Currently
 
+* 🎓 Studying **B.Sc. in CSE**
+* 🌐 Working with **Java, Spring Boot & PHP (Laravel)**
+* 📱 Exploring **Android Development (Jetpack Compose)**
+* 💾 Using **MySQL, MSSQL & PostgreSQL**
+* 🤖 Diving into **AI, AI Agents & RAG systems**
+* ⚙️ Learning **CI/CD, Docker & Cloud Deployment**
+* 🔜 Moving toward **Microservices Architecture**
+* 💬 Open to collaborating on **real-world, impactful projects**
 
 ---
 
@@ -73,6 +74,7 @@ I’m passionate about building full-stack web applications, with a strong inter
 ### 🔙 Backend:
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=007396)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Laravel](https://img.shields.io/badge/-Laravel-333?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 
 ### 📱 Android:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
